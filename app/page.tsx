@@ -402,7 +402,7 @@ export default function BirthdayInvitePage() {
 
               <div className="flex flex-col gap-4 w-full items-center">
                 <DetailRow n="01">
-                  <b style={{ color: INK }}>Bowling at 16:30</b> — please arrive no later than <b>16:15</b>.
+                  <b style={{ color: INK }}>Bowling at 16:30</b> — please arrive no later than <b>16:15</b>. <br /> <b style={{ color: INK }}>Location: </b> Tenpin Glasgow — PA4 8XQ.
                 </DetailRow>
                 <DetailRow n="02">
                   <b style={{ color: INK }}>Outfit:</b> casual for bowling — but bring something to change into.
